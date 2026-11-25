@@ -1,10 +1,8 @@
-This is a simple stock screener mainly for US stock exchange with gui and working news, you can import csv file to look at trends 
+This is a simple stock screener mainly for US stock exchange with gui and , you can import csv file to look at trends 
 
 
 FEATURES
--news
-  check news from yahoo finance 
-  
+
 -stock information
   all important information about stock like price,PE ratio, price change
 
